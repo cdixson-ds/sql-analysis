@@ -10,6 +10,14 @@ pipenv install python-dotenv psycopg2-binary
 pipenv shell
 
 '''
+
+Setup env vars in a ".env" file:
+
+DB_NAME="______________"
+DB_USER="______________"
+DB_PASSWORD="______________"
+DB_HOST="______________"
+
 Run:
 
 '''sh
